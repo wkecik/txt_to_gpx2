@@ -9,7 +9,6 @@ import datetime
 import folium
 
 
-
 def txt_gpx():
 
 
